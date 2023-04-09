@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992051004140",
+    "project_id": "carmarz-app",
+    "storage_bucket": "carmarz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992051004140:android:cf958dbb9054c2b8be9bc9",
+        "android_client_info": {
+          "package_name": "com.moonbear.carmarz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992051004140-ic9iopvl8fu79cbdnn828ofihjdeir85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADUu7WecHv4y9f4_P6DRyY7QmxEaJGXUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992051004140-ic9iopvl8fu79cbdnn828ofihjdeir85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
