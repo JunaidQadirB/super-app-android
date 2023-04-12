@@ -2,8 +2,8 @@ package com.moonbear.carmarz;
 
 public class Constants {
 
-    public static final String BASE_URL = "http://localhost:8081";
-    public static final String API_KEY = "";
+    public static final String BASE_URL = "https://carmarz-api-stage.kissah.org/";
+    public static final String API_KEY = "12345-76543-34567-8765";
 
     public static final String TERMS_CONDITIONS = "";
     public static final String HELP_URL = "";
@@ -16,10 +16,10 @@ public class Constants {
     public static final String APILINK = Constants.BASE_URL + "api/";
     public final static String defaultCurrency="PKR";
 
-    public final static String defaultCountryName="UNITED STATES";
-    public final static String defaultCountryCode="+1";
-    public final static String defaultCountryISOCode="US";
-    public final static String defaultCountryId="226";
+    public final static String defaultCountryName="Pakistan";
+    public final static String defaultCountryCode="+92";
+    public final static String defaultCountryISOCode="PK";
+    public final static String defaultCountryId="162";
 
 
     public final static String fromSocial="fromSocial";
